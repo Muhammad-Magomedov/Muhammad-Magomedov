@@ -1,6 +1,6 @@
-#Привет👋! Я Магомед
+<h1>Привет👋! Я Магомед</h1>
 
-### Я Fullstack программист и вот технологии, которые я использую:
+<h3> Я Fullstack программист и вот технологии, которые я использую:<h3/>
 ___
 
 <div> 
@@ -34,7 +34,7 @@ ___
     <img alt="Mohmad" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-##Мои работы:
+  <h2>Мои работы:</h2>
 
 - Биржа дикторов <a href="https://github.com/Muhammad-Magomedov/speakersWebSite">Код</a> | <a href="https://speakers-mern.herokuapp.com/">Демо</a>
 - Роспотребнадзор <a href="https://github.com/Muhammad-Magomedov/rospotrebFront">Код фронтенда</a> | <a href="https://github.com/Muhammad-Magomedov/RospotrebNadzor">Код бэкенда</a>
