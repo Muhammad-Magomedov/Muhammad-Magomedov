@@ -1,7 +1,8 @@
 <h1>Привет👋! Я Магомед</h1>
 
 <h3> Я Fullstack программист и вот технологии, которые я использую:<h3/>
-___
+
+  ___
 
 <div> 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
