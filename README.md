@@ -41,5 +41,4 @@ ___
 - Роспотребнадзор <a href="https://github.com/Muhammad-Magomedov/rospotrebFront">Код фронтенда</a> | <a href="https://github.com/Muhammad-Magomedov/RospotrebNadzor">Код бэкенда</a>
 
 ___ 
-
-https://www.codewars.com/users/Magaga/badges/large
+<img alt="Codewars" src="https://www.codewars.com/users/Magaga/badges/large" />
