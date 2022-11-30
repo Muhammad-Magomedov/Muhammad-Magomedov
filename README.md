@@ -39,3 +39,7 @@ ___
 
 - Биржа дикторов <a href="https://github.com/Muhammad-Magomedov/speakersWebSite">Код</a> | <a href="https://speakers-mern.herokuapp.com/">Демо</a>
 - Роспотребнадзор <a href="https://github.com/Muhammad-Magomedov/rospotrebFront">Код фронтенда</a> | <a href="https://github.com/Muhammad-Magomedov/RospotrebNadzor">Код бэкенда</a>
+
+___ 
+
+https://www.codewars.com/users/Magaga/badges/large
